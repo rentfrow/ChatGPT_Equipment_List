@@ -2,6 +2,7 @@
 
 """
 This script creates or recreates a sameple database and table 
+
 """
 
 import sqlite3
